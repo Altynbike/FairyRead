@@ -1,0 +1,6 @@
+{
+  "name": "FairyRead",
+  "description": "An educational reading comprehension and diagnostic platform for Grade 7 EFL students in Kazakhstan, featuring English folk tales and structured activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
